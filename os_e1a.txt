@@ -1,0 +1,26 @@
+3cse_e1a
+
+commands list
+
+date
+cal (cal august 1945/cal/cal 2023)
+bc 
+factor
+time
+pwd
+expr 
+echo
+print
+mkdir (mkdir <dir name>/ mkdir <dr name1> <dir name2> <dir name3>/mkdir -p documents/<mkdir name1>)
+cd
+touch
+ls
+cat (cat > <filename>/ cat <>filename)
+seq (seq 1 10)
+grep
+cp (<filename1> <filename2>)
+cmp (<filename1> <filename2>)
+sort (-r/ -n/ -n -r)
+cat ((<filename1> <filename2>))
+exit
+clear

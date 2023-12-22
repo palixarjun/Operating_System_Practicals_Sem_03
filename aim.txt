@@ -1,0 +1,11 @@
+1.a. to implement general purpose utility commands in linux
+1.b. to implement the following system calls fork(), wait() and sleep()
+2. to implement first come first serve disk scheduling algorithm
+3. to implement a c program of first come first serve cpu scheduling algorithm
+4. to execute the priority based cpu scheduling algorithm
+5. write a program to illustrate the memory management paging technique
+6. to stimulate lru page replacement technique
+7. to implement producer consumer problems using semaphore
+8. to demonstrate inter process communication between process using shared memory
+9. to implement the multiprogramming within equal size fixed partition
+10. write a program to implement bankers algorithm
